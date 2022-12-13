@@ -1,0 +1,18 @@
+{
+  "images" : [
+    {
+      "alignment-insets" : {
+        "bottom" : 200,
+        "left" : 200,
+        "right" : 200,
+        "top" : 200
+      },
+      "filename" : "download-1292814_1280.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
